@@ -21,7 +21,7 @@ To start creating your own music with Melodify, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ramakrishnan2503/Melodify.ai.git
-   cd Melodify.ai
+   cd Melodify.ai-main
 
 2. **Install Dependencies:**
     ```bash
@@ -31,4 +31,4 @@ To start creating your own music with Melodify, follow these steps:
     ```bash
     streamlit run app.py
 
-Kindly ensure that you have changed all the path variables according to you
+Kindly ensure that you have changed all your path variables before working on
