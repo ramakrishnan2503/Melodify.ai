@@ -31,4 +31,4 @@ To start creating your own music with Melodify, follow these steps:
     ```bash
     streamlit run app.py
 
-
+Kindly ensure that you have changed all the path variables according to you
